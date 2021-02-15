@@ -1,0 +1,28 @@
+Advanced properties
+Coinbase maturity	21 ( + 1 default confirmation) blocks
+Target spacing	5 minutes
+Target timespan	10 minutes
+Transaction confirmations	6 blocks
+
+Node 1	
+node1.walletbuilders.com
+
+Last block with reward	6930000
+Time until last block	65 years, 10 months, 17 days, 12 hour
+
+Coin properties
+Purchase type	Free coin
+Compiling OS	Ubuntu 18.04 LTS
+Source branch	0.17
+Algorithm	SHA-256
+Block type	Proof-of-Work
+Coin name	Saurus
+Coin abbreviation	SAS
+Address letter	1
+Coin unit	Sacoin
+RPC port	25413
+P2P port	25414
+Block reward	50 coins
+Block halving	210000 blocks
+Coin supply	21000000 coins
+Website URL	https://rett-vinnueftirlit.webnode.es
